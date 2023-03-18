@@ -3,5 +3,17 @@
 
 
 .notion-collection-card-cover{
-  height: auto !important;
+/*   height: auto !important; */
+}
+
+
+#live2d {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	z-index: 10;
+}
+
+footer{
+  z-index: 0;
 }
