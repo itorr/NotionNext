@@ -3,7 +3,7 @@
 
 
 .notion-collection-card-cover{
-/*   height: auto !important; */
+	  height: 300px !important;
 }
 
 
@@ -15,5 +15,5 @@
 }
 
 footer{
-  z-index: 0 !important;
+	  z-index: 0 !important;
 }
