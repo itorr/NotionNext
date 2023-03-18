@@ -117,3 +117,8 @@ pre[class*='language-'] > code {
   box-shadow: none !important;
   background: none !important;
 }
+
+
+.notion-collection-card-cover{
+  height: auto !important;
+}
