@@ -1,2 +1,7 @@
 /* 静态文件导入 自定义样式*/
 
+
+
+.notion-collection-card-cover{
+  height: auto !important;
+}
